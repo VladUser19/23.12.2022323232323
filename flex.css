@@ -1,0 +1,46 @@
+body{
+	background: whitesmoke;
+}
+
+.container{
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: space-between;
+}
+
+.one{
+	background: rgb(0, 159, 0, 0.7);
+	width: 75px;
+	height: 100px;
+	font-family: Helvetica;
+	font-size: 70px;
+	text-align: center;
+	display: inline-block;
+}
+.two{
+	background: rgb(100, 0, 0, 0.4);
+	width: 75px;
+	height: 100px;
+	font-family: Helvetica;
+	font-size: 70px;
+	text-align: center;
+	display: inline-block;
+}
+.three{
+	background: rgb(0, 0, 65, 0.5);
+	width: 75px;
+	height: 100px;
+	font-family: Helvetica;
+	font-size: 70px;
+	text-align: center;
+	display: inline-block;
+}
+.four{
+	background: rgb(45, 12, 100, 0.9);
+	width: 75px;
+	height: 100px;
+	font-family: Helvetica;
+	font-size: 70px;
+	text-align: center;
+	display: inline-block;
+}
